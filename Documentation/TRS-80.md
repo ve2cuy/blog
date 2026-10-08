@@ -14,6 +14,8 @@ And why not write an emulator of the thing.
 
 *Note : l'émulateur (application Flash hébergée sur prof-tim.cstj.qc.ca) n'est plus disponible en ligne.*
 
+**▶️ Nouvel émulateur (2026), écrit en Rust et WebAssembly : [TRS-80 Model I](https://ve2cuy.github.io/trs80-emu/)** — il fonctionne dans le fureteur, avec votre ROM Level II. Code source : [ve2cuy/trs80-emu](https://github.com/ve2cuy/trs80-emu).
+
 <img src="images/TRS-80/trs-80.jpg" alt="" width="400" />
 
 ~~Old TRS-80 software here~~

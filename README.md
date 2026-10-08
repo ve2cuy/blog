@@ -16,6 +16,7 @@
 
 * [My data center](Documentation/My-home-data-center.md)
 * [My TRS-80 emulator](Documentation/TRS-80.md)
+* [▶️ Émulateur TRS-80 Model I (2026, Rust/WebAssembly)](https://ve2cuy.github.io/trs80-emu/) 🔗
 * [TRS-80 : Assembleur](Documentation/TRS-80-Assembleur.md)
 * [z/OS on a PC](Documentation/z-OS-on-a-PC.md)
 * [OpenVMS cheat guide](Documentation/OpenVMS.md)
