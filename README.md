@@ -3,7 +3,7 @@
 *Ordinateurs, microcontrôleurs, radios à lampes et radioamateur — Conversion Markdown 2026.10.08 du blogue [ve2cuy.com/blog](https://ve2cuy.com/blog/)*
 
 <p align="center">
-    <img src="Documentation/images/About/moi2-768x308.jpg" alt="VE2CUY" width="300" />
+    <img src="Documentation/images/Accueil/moi.jpg" alt="Alain Boudreault" width="300" />
 </p>
 
 ### Par Alain Boudreault (VE2CUY)
