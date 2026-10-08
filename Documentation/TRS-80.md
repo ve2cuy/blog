@@ -10,11 +10,15 @@ I had so much fun with it that it gave me the motivation to complete a degree in
 
 And why not write an emulator of the thing.
 
-Clicking on the picture below – or [Here](http://prof-tim.cstj.qc.ca/cours/assemblage/trs-80/main.html) – will bring you to my trs-80 emulator.
+~~Clicking on the picture below – or Here – will bring you to my trs-80 emulator.~~
+
+*Note : l'émulateur (application Flash hébergée sur prof-tim.cstj.qc.ca) n'est plus disponible en ligne.*
 
 <img src="images/TRS-80/trs-80.jpg" alt="" width="400" />
 
-Old TRS-80 software [here](http://ve2cuy.com/trs-80/trs-80.files/)
+~~Old TRS-80 software here~~
+
+*Note : les fichiers d'origine (ve2cuy.com/trs-80/trs-80.files/) ne sont plus disponibles en ligne.*
 
 – Model 1 info:
 
