@@ -41,15 +41,16 @@ Enjoy your tour in my data center!
 
 Here are some pictures of the data center taken in the summer of 2014:
 
-<img src="images/My-home-data-center/datacenter04-200x300.png" alt="datacenter04" width="100" />
+<p>
+<a href="images/My-home-data-center/datacenter04-768x1152.jpg"><img src="images/My-home-data-center/datacenter04-768x1152.jpg" alt="datacenter04" width="270" /></a>
+<a href="images/My-home-data-center/datacenter03-768x1152.jpg"><img src="images/My-home-data-center/datacenter03-768x1152.jpg" alt="datacenter03" width="270" /></a>
+<a href="images/My-home-data-center/datacenter01-768x1152.jpg"><img src="images/My-home-data-center/datacenter01-768x1152.jpg" alt="datacenter01" width="270" /></a>
+</p>
 
-<img src="images/My-home-data-center/datacenter03-200x300.png" alt="datacenter03" width="100" />
-
-<img src="images/My-home-data-center/datacenter01-200x300.png" alt="datacenter01" width="100" />
-
-<img src="images/My-home-data-center/datacenter02-300x200.png" alt="datacenter02" width="150" />
-
-<img src="images/My-home-data-center/datacenter00-300x200.png" alt="datacenter00" width="150" />
+<p>
+<a href="images/My-home-data-center/datacenter02-768x512.jpg"><img src="images/My-home-data-center/datacenter02-768x512.jpg" alt="datacenter02" width="410" /></a>
+<a href="images/My-home-data-center/datacenter00-768x512.jpg"><img src="images/My-home-data-center/datacenter00-768x512.jpg" alt="datacenter00" width="410" /></a>
+</p>
 
 ▶️ Vidéo YouTube : [Voir la vidéo](https://www.youtube.com/watch?v=N1TZylWMVC4)
 
