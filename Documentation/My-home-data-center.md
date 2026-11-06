@@ -1,6 +1,6 @@
 # My home data center
 
-<img src="images/My-home-data-center/datacenter000x1080-768x512.png" alt="datacenter000x1080" width="315" />
+<a href="images/My-home-data-center/datacenter000x1080.webp"><img src="images/My-home-data-center/datacenter000x1080-768x512.webp" alt="Les baies du centre de données maison" width="315" /></a>
 
 Here’s an update video of my home Data Center
 
