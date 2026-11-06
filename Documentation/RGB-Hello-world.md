@@ -18,7 +18,7 @@ The idea here was to test the new acquired AVRISP mkII, not reinvent a way of sa
 
 After a few adjustments in AVR Studio and transferring the HEX file to the chip, I caught myself staring, and staring, and staring, and … (ok, you get the point) at:
 
-`▶️ Vidéo YouTube : [Voir la vidéo](https://www.youtube.com/watch?v=YiELwEK13aM)`  
+▶️ Vidéo YouTube : [Voir la vidéo](https://www.youtube.com/watch?v=YiELwEK13aM)  
 I must admit, 9 channel software PWM is not the usual ‘Hello world’ program, but what the heck…
 
 <img src="images/RGB-Hello-world/pwm-rgb-002.jpg" alt="" width="315" />

@@ -80,4 +80,4 @@ Datasheet:
 
 [F-51159](fichiers/f-51159.pdf)
 
-`▶️ Vidéo YouTube : [Voir la vidéo](https://www.youtube.com/watch?v=yUbRnAU_2Is)`
+▶️ Vidéo YouTube : [Voir la vidéo](https://www.youtube.com/watch?v=yUbRnAU_2Is)
