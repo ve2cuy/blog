@@ -83,13 +83,3 @@
 * [Introduction à Xcode et swift](Documentation/2015-03-29-Introduction-a-Xcode-et-swift.md)
 * [When price is not worth your while](Documentation/2010-06-03-When-price-is-not-worth-your-while.md)
 * [Home page](Documentation/2010-01-03-Home-page.md)
-
----
-
-## Structure du dépôt
-
-* `Documentation/` : pages et articles (Markdown)
-* `Documentation/images/` : images, regroupées par document
-* `Documentation/fichiers/` : fichiers joints (PDF, etc.)
-
-Site web (GitHub Pages) : <https://ve2cuy.github.io/blog/>
