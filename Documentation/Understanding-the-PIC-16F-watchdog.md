@@ -1,9 +1,5 @@
 # Understanding the PIC 16F watchdog
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/watch-the-dog/) — dernière modification : 2015-03-31*
-
----
-
 ### What is a micro-controller watchdog?
 
 > « *Suppose you have written a program that is continuously running on a PIC. Now, you want to make sure that this program is always running, and that no matter what happens it will never stop. The first thing you would have, of course, is a loop back at the end of the program that brings us back to the start of the program. But consider this case. Let us say that the PIC is monitoring an input. When this input goes high, it jumps to another part of the program and waits for another pin to go high. If the second pin doesn’t go high, the PIC will just sit there and wait. It will only exit if the second pin goes high. Let us consider another example. Suppose you have written a program. You have compiled it successfully, and you have even simulated it over and over again using a simulator such as MPLAB. Everything seems to work fine. You program the PIC and place it into a circuit. However after a long period of time, the program gets stuck somewhere and the PIC gets caught in a loop. What’s needed in both cases is some kind of  reset if the program gets stuck. This is the purpose of a watchdog circuit.* »

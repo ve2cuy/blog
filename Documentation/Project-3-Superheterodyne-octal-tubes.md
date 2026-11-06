@@ -1,9 +1,5 @@
 # Project 3 – Superheterodyne octal tubes
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/vacuum-tube/project-3-superheterodyne-octal-tubes/) — dernière modification : 2010-05-23*
-
----
-
 This is a work in progress. The radio will probably be completed in the first half of 2010.
 
 It will have 5 section; rf, lo-mixer+if, if-amp2, det+first-af and af-amp.

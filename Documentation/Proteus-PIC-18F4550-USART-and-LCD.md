@@ -1,9 +1,5 @@
 # Proteus – PIC 18F4550 USART and LCD
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/proteus-pic-18f4550-usart-and-lcd/) — dernière modification : 2015-03-28*
-
----
-
 Using Proteus, this project demonstrates how to use the 18F4550 USART to receive, using hardware interrupts, and transmit characters. The characters will be displayed on the LCD.
 
 # The schematic diagram

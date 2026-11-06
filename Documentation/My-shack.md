@@ -1,9 +1,5 @@
 # My shack
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/amateur-radio/) — dernière modification : 2010-01-03*
-
----
-
 My first contact with wireless communication was a crystal radio that my father gave me for Christmas.  I was 10.
 
 Then the usual progression; scanner, SW listener, Ham radio band listener.

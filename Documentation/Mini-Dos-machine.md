@@ -1,9 +1,5 @@
 # Mini Dos machine
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/mini-dos-machine/) — dernière modification : 2014-01-31*
-
----
-
 I am (was) currently working on a mini i86 DOS machine.
 
 An old modified PC-XT board serve as a test platform for the homemade BIOS.

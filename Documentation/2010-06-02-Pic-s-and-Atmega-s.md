@@ -1,9 +1,5 @@
 # Pic’s and Atmega’s …
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/2010/06/02/pics-and-atmegas/) — publié le 2010-06-02 — dernière modification : 2010-06-02*
-
----
-
 Just ordered a few atmel and microchip microcontrollers on eBay for some projects that I will do during summer vacation.  So, I had to install AVR Studio 4 and MPLAB tools 8.5.
 
 Find the error on theses screen captures:

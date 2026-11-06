@@ -1,9 +1,5 @@
 # My home data center
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/2014/06/14/my-home-data-center/) — publié le 2014-06-14 — dernière modification : 2014-06-14*
-
----
-
 For those of you who like hardware, I’ve documented my home data center.
 
 <img src="images/2014-06-14-My-home-data-center/datacenter_title-768x323.png" alt="datacenter_title" width="315" />

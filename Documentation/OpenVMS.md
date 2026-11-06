@@ -1,9 +1,5 @@
 # OpenVMS
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/openvms/) — dernière modification : 2010-01-03*
-
----
-
 ## Basic commands references
 
 | UNIX (bash) | VMS (DCL) | remarks |

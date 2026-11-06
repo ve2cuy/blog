@@ -1,9 +1,5 @@
 # Arduino
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/arduino/) — dernière modification : 2010-01-03*
-
----
-
 What can we do with  Arduino and a icom PCR-1000?
 
 <img src="images/Arduino/arduino-300x225.jpg" alt="" width="120" />

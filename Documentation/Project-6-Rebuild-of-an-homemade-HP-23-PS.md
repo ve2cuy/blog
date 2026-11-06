@@ -1,9 +1,5 @@
 # Project 6 – Rebuild of an homemade HP-23 PS
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/vacuum-tube/project-6-rebuild-of-an-homemade-hp-23-ps/) — dernière modification : 2010-05-23*
-
----
-
 A few months ago I bought, from a Ham operator, an HW-100 transceiver.
 
 The radio came with a homemade power supply that was a health hazard in a shack.

@@ -1,9 +1,5 @@
 # 18F4620 – 2 x I2C LCD with PCF8574
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/18f4620-2-x-i2c-lcd-with-pcf8574/) — dernière modification : 2015-04-06*
-
----
-
 # To my English language readers
 
 The following article is in French.

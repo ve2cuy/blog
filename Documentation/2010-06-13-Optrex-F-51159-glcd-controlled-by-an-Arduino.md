@@ -1,9 +1,5 @@
 # Optrex F-51159 glcd controlled by an Arduino
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/2010/06/13/320/) — publié le 2010-06-13 — dernière modification : 2010-06-13*
-
----
-
 Just got some Optrex F-51159 GLCD’s from eBay.
 
 If you ever need the datasheet or some code example to make them work with an Arduino, read further:

@@ -1,9 +1,5 @@
 # Proteus – PIC 18F Blink a LED
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/pic-18f-blink-a-led/) — dernière modification : 2015-03-29*
-
----
-
 # Your first Proteus PIC project – Blink a LED on port RD2 of a 18F4620
 
 This is your first PIC project ever, blink a LED, yes, I know…

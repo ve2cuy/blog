@@ -1,9 +1,5 @@
 # Project 5 – 3 tube regen HF receiver
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/vacuum-tube/project-5-3-tube-regen-hf-receiver/) — dernière modification : 2010-05-23*
-
----
-
 Well, well, here is my new project:   3 tube HF regen receiver.
 
 The idea was to design from scratch– using parts available in my shack – a regen receiver with a good audio output that would cover the HF band by using plug-in coils.

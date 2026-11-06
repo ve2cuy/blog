@@ -1,9 +1,5 @@
 # My old radios
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/my-old-radios/) — dernière modification : 2010-05-23*
-
----
-
 <img src="images/My-old-radios/mes-radios-005.jpg" alt="" width="450" />
 
 <img src="images/My-old-radios/mes-radios-011.jpg" alt="" width="300" />

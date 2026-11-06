@@ -1,9 +1,5 @@
 # Z/OS + hercules configuration file
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/2012/04/23/zos-hercules-configuration-file/) — publié le 2012-04-23 — dernière modification : 2012-04-23*
-
----
-
 A key element to run Z/OS on Hercules is the hercules configuration file.
 
 This file informs, amongst other things, the location of DASD files.

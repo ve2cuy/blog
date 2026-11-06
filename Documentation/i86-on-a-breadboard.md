@@ -1,9 +1,5 @@
 # i86 on a breadboard
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/i86-on-a-breadboard/) — dernière modification : 2014-01-31*
-
----
-
 # Here is a complete i86 computer on a breadboard
 
 I made this project in the summer of 2010.

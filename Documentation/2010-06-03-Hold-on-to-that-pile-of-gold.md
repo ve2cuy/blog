@@ -1,9 +1,5 @@
 # Hold on to that pile of gold
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/2010/06/03/hold-on-to-that-pile-of-gold/) — publié le 2010-06-03 — dernière modification : 2010-06-03*
-
----
-
 <img src="images/2010-06-03-Hold-on-to-that-pile-of-gold/atmega-gold.jpg" alt="" width="200" />
 
 For the last year, I have been using an Arduino board and the associated IDE to build a few projects around the Atmega328.

@@ -1,9 +1,5 @@
 # Apollo Guidance Computer
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/2014/08/11/ordinateur-de-controle-module-datterrissage-du-agc/) — publié le 2014-08-11 — dernière modification : 2021-04-29*
-
----
-
 <img src="images/2014-08-11-Apollo-Guidance-Computer/10apollo-johnxl.jpg" alt="Apollo Computer Reproduction" width="292" />
 
 One of my favorite projects:

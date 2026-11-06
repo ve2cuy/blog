@@ -1,9 +1,5 @@
 # Calculer le temps d’exécution d’une instruction sous PIC 18F
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/2014/06/16/comprendre-le-temps-dexecution-dune-instruction-sous-pic-18f/) — publié le 2014-06-16 — dernière modification : 2014-06-16*
-
----
-
 # Mise en situation
 
 **Étant donné la boucle suivante:**

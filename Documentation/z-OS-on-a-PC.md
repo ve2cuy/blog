@@ -1,9 +1,5 @@
 # z/OS on a PC
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/zos-on-a-pc/) — dernière modification : 2014-01-31*
-
----
-
 Have you ever hoped to try your hand on an operating system designed for an [big iron](http://en.wikipedia.org/wiki/Big_iron_(computing)) computer?
 
 For example, z/OS?

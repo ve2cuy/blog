@@ -1,9 +1,5 @@
 # TRS-80
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/trs-80-emulator/) — dernière modification : 2025-11-25*
-
----
-
 My first computer was a TRS-80 model 1.
 
 I had so much fun with it that it gave me the motivation to complete a degree in computer science.

@@ -1,9 +1,5 @@
 # TRS-80 : Assembleur
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/trs-80-assembleur/) — dernière modification : 2025-11-25*
-
----
-
 - Compilation, à partir de Windows d’un programme Z80 ([zmac](http://48k.ca/zmac.html)):
 
 ```

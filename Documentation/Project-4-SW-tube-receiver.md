@@ -1,9 +1,5 @@
 # Project 4 – SW tube receiver
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/vacuum-tube/project-4-sw-tube-receiver/) — dernière modification : 2010-05-23*
-
----
-
 **Update – 22.05.2010**
 
 I did a little work on the project:

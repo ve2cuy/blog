@@ -68,8 +68,8 @@ body {
 .hero .wrap { display: flex; flex-direction: column; gap: 16px; }
 .hero h1 { margin: 0; max-width: 22ch; font-family: var(--display); font-weight: 600; font-size: clamp(32px, 4.6vw, 54px); line-height: 1.08; letter-spacing: -0.02em; text-wrap: balance; }
 .hero .lede { margin: 0; max-width: 60ch; font-size: 19px; color: var(--muted); }
-/* Le titre du README fait double emploi avec la bannière. */
-.prose.home > h1:first-child { display: none; }
+/* Le titre du README et sa devise font double emploi avec la bannière. */
+.prose.home > h1:first-child, .prose.home > h1:first-child + p { display: none; }
 
 /* Texte des billets */
 main.wrap { padding-top: 40px; padding-bottom: 72px; }
@@ -88,8 +88,6 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; }
 .prose a:hover { text-decoration-color: currentColor; }
 .prose strong { font-weight: 600; }
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 2em 0; }
-/* Ligne « Document converti depuis … » en tête des billets */
-.prose > h1:first-child + p > em:only-child { display: block; font-style: normal; font-family: var(--mono); font-size: 13px; line-height: 1.6; color: var(--muted); }
 
 .prose img { max-width: 100%; height: auto; border-radius: 10px; vertical-align: middle; }
 .prose p > a > img, .prose p > img { margin: 2px; }

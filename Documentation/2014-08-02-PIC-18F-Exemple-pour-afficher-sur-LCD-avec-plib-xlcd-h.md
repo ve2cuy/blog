@@ -1,9 +1,5 @@
 # PIC 18F – Exemple pour afficher sur LCD avec plib/xlcd.h
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/2014/08/02/pic-18f-exemple-pour-afficher-sur-lcd-avec-plibxlcd-h/) — publié le 2014-08-02 — dernière modification : 2014-08-02*
-
----
-
 Sample code that displays on a LCD using the xlcd XC8 library
 
 Note: The internal clock is used with the default clock rate of 1 MHz.

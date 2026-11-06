@@ -1,9 +1,5 @@
 # My home data center
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/my-home-data-center/) — dernière modification : 2014-01-30*
-
----
-
 <img src="images/My-home-data-center/datacenter000x1080-768x512.png" alt="datacenter000x1080" width="315" />
 
 Here’s an update video of my home Data Center

@@ -1,9 +1,5 @@
 # Next project in the workshop
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/2010/09/16/next-project-in-the-workshop/) — publié le 2010-09-16 — dernière modification : 2010-09-16*
-
----
-
 **TRS-80 model 1, on a breadboard**:
 
 - Z80, 10mhz,

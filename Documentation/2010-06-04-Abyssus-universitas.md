@@ -1,9 +1,5 @@
 # Abyssus universitas
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/2010/06/04/abyssus-universitas/) — publié le 2010-06-04 — dernière modification : 2010-06-04*
-
----
-
 In the world of computer programming, the “Hello world program” is often the first one we write.  During my computer science Degree, we did it in Cobol, Pascal, Modula, 370 assembler, …
 
 In the world of microcontroller, where a display device his rarely utilize in a first project, we light up a LED.

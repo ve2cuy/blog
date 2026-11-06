@@ -1,9 +1,5 @@
 # Comment programmer l’horloge d’un pic 18F
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/comment-programmer-lhorloge-dun-pic-18f/) — dernière modification : 2015-03-28*
-
----
-
 # Mise en situation
 
 <img src="images/Comment-programmer-l-horloge-d-un-pic-18F/squarewave.png" alt="squarewave" width="130" />

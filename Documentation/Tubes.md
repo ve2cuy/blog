@@ -1,9 +1,5 @@
 # Tubes
 
-*Document converti depuis [ve2cuy.com/blog](https://ve2cuy.com/blog/index.php/vacuum-tube/) — dernière modification : 2010-01-03*
-
----
-
 [Project 1 – 350 volt PS](Project-1-350-volt-PS.md)  
 [Project 2 – One tube receiver](Project-2-One-tube-receiver.md)  
 [Project 3 – Superheterodyne octal tubes](Project-3-Superheterodyne-octal-tubes.md)  
