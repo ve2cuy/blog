@@ -10,8 +10,6 @@
 
 ---
 
-## Pages
-
 ### Computers
 
 * [My data center](Documentation/My-home-data-center.md)
