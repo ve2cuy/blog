@@ -1,3 +1,5 @@
 title: "Les projets de VE2CUY"
 description: "Ordinateurs, microcontrôleurs, radios à lampes et radioamateur"
-theme: jekyll-theme-primer
+lang: fr
+# Gabarit et feuille de style propres (_layouts/default.html, assets/css/ve2cuy.css),
+# repris de la page d'accueil de ve2cuy.com.
