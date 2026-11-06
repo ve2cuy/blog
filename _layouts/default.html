@@ -44,13 +44,14 @@
 <section class="hero">
   <div class="wrap">
     <span class="kicker">blogue · <span class="c-green">depuis 2010</span></span>
-    <h1><span class="c-cyan">O</span>rdinateurs, <span class="c-amber">m</span>icrocontrôleurs, <span class="c-violet">r</span>adios à lampes et <span class="c-green">r</span>adioamateur.</h1>
+    <h1><span class="c-cyan">O</span>rdinateurs, <span class="c-violet">m</span>icrocontrôleurs, <span class="c-amber">r</span>adios à lampes et <span class="c-green">r</span>adioamateur.</h1>
     <p class="lede">Les projets d'Alain Boudreault (VE2CUY) : centre de données maison, PIC et Arduino, récepteurs à lampes, et quelques vieux ordinateurs.</p>
   </div>
 </section>
 {% endif %}
 
 <main class="wrap">
+{% if page.path == 'README.md' %}{% include sections.html %}{% endif %}
   <article class="prose{% if page.path == 'README.md' %} home{% endif %}">
 {{ content }}
   </article>

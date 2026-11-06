@@ -115,6 +115,23 @@ main.wrap { padding-top: 40px; padding-bottom: 72px; }
 .prose.home li a::after { content: ""; position: absolute; inset: 0; border-radius: 12px; }
 .prose.home li:hover a { color: var(--link); }
 
+/* Vignettes des sections, sur l'accueil */
+.c-red { color: var(--red); }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(150px, 100%), 1fr)); gap: 14px; margin: 8px 0 48px; }
+.tile {
+  border-radius: 16px; overflow: hidden; border: 1px solid var(--line); background: var(--panel); color: var(--fg);
+  text-decoration: none; display: flex; flex-direction: column; transition: border-color .2s ease, transform .2s ease;
+}
+.tile:hover { border-color: var(--line-2); transform: translateY(-2px); }
+.tile .art { height: 104px; background: var(--panel-2); display: flex; align-items: center; justify-content: center; }
+.tile .art svg { width: 180px; height: 90px; }
+.tile .body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 4px; }
+.tile .heading { font-family: var(--display); font-weight: 700; font-size: 17px; }
+.tile .desc { font-size: 13.5px; line-height: 1.45; color: var(--muted); }
+.prose h3[id] { scroll-margin-top: 24px; }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
 /* Coloration du code (Rouge) */
 .highlight .c, .highlight .c1, .highlight .cm, .highlight .cs { color: var(--muted); font-style: italic; }
 .highlight .cp, .highlight .cpf { color: var(--cyan); }
